@@ -2,8 +2,11 @@
 
 My name is José Caio!
 
-<!--
+</br>
+
 **JoseCaio44/JoseCaio44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+</br>
 
 Here are some ideas to get you started:
 
@@ -13,7 +16,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about hardware!
 - 📫 How to reach me: josecaiogodoi@hotmail.com
 
--->
+
 </br>
 
 ## Ferramentas e Tecnologias
