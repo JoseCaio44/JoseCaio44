@@ -1,19 +1,18 @@
-### 👋 Hello! Welcome to my Github profile.
-
-My name is José Caio!
+### Olá Meu nome e José Caio
 
 </br>
 
-**JoseCaio44/JoseCaio44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá, sou um desenvolvedor em início de carreira com experiência em C# com .NET, Vue.js, TypeScript, Python, Docker e PostgreSQL. Eu trabalho com desenvolvimento de aplicações web, utilizando tecnologias como Vue.js e TypeScript, e também tenho habilidades em C# com .NET. No back-end, tenho experiência em Python e Docker, e também sou familiarizado com o PostgreSQL. Sempre busco aprender novas tecnologias e linguagens para expandir minhas habilidades e conhecimentos, e acredito que posso contribuir positivamente em qualquer equipe de desenvolvimento de software que valorize essas competências.
 
 </br>
 
-Here are some ideas to get you started:
+## :computer: Tecnologias
+Abaixo estão algumas das tecnologias que eu utilizo:
 
-- 🌱 I’m currently learning C#
-- 💬 Ask me about hardware!
-- 📫 How to reach me: josecaiogodoi@hotmail.com
-
+- Front End: ReactJS, HTML5, CSS
+- Back End: .NET, Java, Ruby on Rails
+- Database: PostgreSQL e SQL Server
+- Deploy: Docker
 
 </br>
 
@@ -27,6 +26,7 @@ Here are some ideas to get you started:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original-wordmark.svg" height="42" width="42"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="42" width="42"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="42" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42" width="42"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="42" width="42"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="42" width="42"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="42" width="42"/>
@@ -34,14 +34,6 @@ Here are some ideas to get you started:
 
 </br>
 
-## Estou aprendendo
-
-<div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42" width="42"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" height="42" width="42"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="42" width="42"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="42" width="42"/>
-</div>
 
 </br>
 
@@ -56,6 +48,9 @@ Here are some ideas to get you started:
 </div>
 
 </br>
+
+## :bar_chart: Estatísticas
+Confira também minhas estatísticas no GitHub:
 
 <div>
 <a href="https://github.com/JoseCaio44">
