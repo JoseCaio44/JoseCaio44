@@ -2,7 +2,7 @@
 
 </br>
 
-Olá, sou um desenvolvedor em início de carreira com experiência em C# com .NET, Vue.js, TypeScript, Python, Docker e PostgreSQL. Eu trabalho com desenvolvimento de aplicações web, utilizando tecnologias como Vue.js e TypeScript, e também tenho habilidades em C# com .NET. No back-end, tenho experiência em Python e Docker, e também sou familiarizado com o PostgreSQL. Sempre busco aprender novas tecnologias e linguagens para expandir minhas habilidades e conhecimentos, e acredito que posso contribuir positivamente em qualquer equipe de desenvolvimento de software que valorize essas competências.
+Olá, sou um desenvolvedor em início de carreira com experiência em C# com .NET, Vue.js, TypeScript, Python e Ruby. Eu trabalho com desenvolvimento de aplicações web, utilizando tecnologias como Vue.js no front e TypeScript no back, tenho experiência com Python para aplicações de machine learning e matematica computacional, e também sou familiarizado com o PostgreSQL. Sempre busco aprender novas tecnologias e linguagens para expandir minhas habilidades e conhecimentos, nas horas vagas sou um intuisiasta do mundo linux e tenho como hobbie fazer pequenos prototipos com arduino e raspberry PI, sempre buscando entender como a eletrônica pode ser aplicada no dia a dia.
 
 </br>
 
