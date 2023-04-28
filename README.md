@@ -2,7 +2,7 @@
 
 </br>
 
-Olá, sou um desenvolvedor em início de carreira com experiência em C# com .NET, Vue.js, TypeScript, Python e Ruby. Eu trabalho com desenvolvimento de aplicações web, utilizando tecnologias como Vue.js no front e TypeScript no back, tenho experiência com Python para aplicações de machine learning e matematica computacional, e também sou familiarizado com o PostgreSQL. Sempre busco aprender novas tecnologias e linguagens para expandir minhas habilidades e conhecimentos, nas horas vagas sou um intuisiasta do mundo linux e tenho como hobbie fazer pequenos prototipos com arduino e raspberry PI, sempre buscando entender como a eletrônica pode ser aplicada no dia a dia.
+Olá, sou um desenvolvedor em início de carreira. Eu trabalho com desenvolvimento de aplicações web, utilizando tecnologias como Vue.js no front e Java com SpringBoot no back. Sempre busco aprender novas tecnologias e linguagens para expandir minhas habilidades e conhecimentos, nas horas vagas sou um intuisiasta do mundo linux e tenho como hobbie fazer pequenos prototipos com arduino e raspberry PI, sempre buscando entender como a computação pode ser aplicada no dia a dia.
 
 </br>
 
