@@ -2,17 +2,17 @@
 
 </br>
 
-Olá, sou um desenvolvedor em início de carreira. Eu trabalho com desenvolvimento de aplicações web, utilizando tecnologias como Vue.js no front e Java com SpringBoot no back. Sempre busco aprender novas tecnologias e linguagens para expandir minhas habilidades e conhecimentos, nas horas vagas sou um intuisiasta do mundo linux e tenho como hobbie fazer pequenos prototipos com arduino e raspberry PI, sempre buscando entender como a computação pode ser aplicada no dia a dia.
-
-</br>
-
 ## :computer: Tecnologias
 Abaixo estão algumas das tecnologias que eu utilizo:
 
-- Front End: ReactJS, HTML5, CSS
-- Back End: .NET, Java, Ruby on Rails
+- Front End: VueJS, HTML5, CSS
+- Back End: Java com SpringBoot
 - Database: PostgreSQL e SQL Server
-- Deploy: Docker
+
+</br>
+
+- 🔭 Atualmente estou trabalhando na R2DA
+- ⚡ Bacharelado em Ciência da Computação IFG Anápolis.
 
 </br>
 
@@ -24,10 +24,11 @@ Abaixo estão algumas das tecnologias que eu utilizo:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="42" width="42"/>   
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original-wordmark.svg" height="42" width="42"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="42" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="42" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="42" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" height="42" width="42"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="42" width="42"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42" width="42"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="42" width="42"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="42" width="42"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="42" width="42"/>
 </div>
