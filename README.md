@@ -6,13 +6,13 @@
 Abaixo estão algumas das tecnologias que eu utilizo:
 
 - Front End: VueJS, HTML5, CSS
-- Back End: Java com SpringBoot
+- Back End: Java com SpringBoot e NodeJS
 - Database: PostgreSQL e SQL Server
 
 </br>
 
-- 🔭 Atualmente estou trabalhando na R2DA
-- ⚡ Bacharelado em Ciência da Computação IFG Anápolis.
+- 🔭 Atualmente estou trabalhando na Ander Imoveis
+- ⚡ Bacharelado em Ciência da Computação Cruzeiro do Sul.
 
 </br>
 
